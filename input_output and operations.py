@@ -27,5 +27,4 @@ res = add/2
 
 num5 =int(input("enter first number to add" ))
 num6 =int(input("enter second number to add" ))
-add = num5 + num6   
-print("addition of two numbers is:", add)
+print(int(num5*num6))
