@@ -6,9 +6,16 @@
 # for item in items:
 #     print(item)
 
-12
-3
-5
-9
-for character in "we are learning python":
- print(character)
+# 12
+# 3
+# 5
+# 9
+# for character in "we are learning python":
+#  print(character)
+
+
+c= 1
+while c <= 10 :
+    print(c)
+c = c+5
+    
